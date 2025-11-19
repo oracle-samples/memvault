@@ -91,10 +91,9 @@ This solution requires the following services:
 Download the code from GitHub.  
 The sample code is available on GitHub.
 
-1. Go to `<Guithub>`  
-2. Clone or download the repository  
-3. Follow the instructions in the `README.md`  
-4. Follow the steps in this solution playbook to configure the app
+1. Clone or download the repository  
+2. Follow the instructions in the `README.md`  
+3. Follow the steps in this solution playbook to configure the app
 
 ---
 
