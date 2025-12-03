@@ -1,4 +1,4 @@
-# MemVault – Process meetings with OCI Speech and find insights with Autonomous database 23ai and GenAI
+# MemVault – Process meetings with OCI Speech and find insights with Autonomous database 26ai and GenAI
 
 
 ## Get Started
