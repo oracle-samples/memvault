@@ -3,7 +3,7 @@
 
 ## Get Started
 
-Learn how to load and process meetings and find insights with Autonomous database 23ai and GenAI.
+Learn how to load and process meetings and find insights with Autonomous database 26ai and GenAI.
 
 You can obtain useful and actionable information from meeting recordings. With this solution playbook you learn how to use Oracle technologies to ask questions about your meetings, summarize meetings or just simply take notes.
 
@@ -14,7 +14,7 @@ You can obtain useful and actionable information from meeting recordings. With t
 To deploy this architecture, you’ll need:
 - OCI Speech
 - An embedding model
-- Oracle Database 23ai
+- Oracle Database 26ai
 - APEX
 - OCI Generative AI
 
@@ -26,9 +26,9 @@ Oracle Cloud Infrastructure (OCI) Speech is one of several cloud-native AI servi
 
 Speech uses automatic speech recognition (ASR) technology to provide grammatically correct transcriptions of video and audio files. It handles low-fidelity audio and challenging recordings like meetings or call center calls. Using Speech, you can turn files stored in OCI Object Storage or a data asset into accurate, normalized, timestamped, and profanity-filtered text.
 
-### AI Vector Search on Oracle 23ai
+### AI Vector Search on Oracle 26ai
 
-Oracle Database 23ai provides **AI vector search** to query data based on semantics rather than keywords. 
+Oracle Database 26ai provides **AI vector search** to query data based on semantics rather than keywords. 
 
 Vectors (or embeddings) are multidimensional representations of documents, images, videos, sound, etc. With vector encoding, you can look for similarities using mathematical calculations. Oracle 23ai enables combining similarity searches with business data using simple SQL, enhancing LLM responses with contextual relevance.
 
